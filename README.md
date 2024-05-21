@@ -21,6 +21,12 @@ Go beyond the chat box. Use API access to leverage LLMs into your own applicatio
 
 ---
 
+## YT RECORDING
+
+[![Chatbot](https://img.youtube.com/vi/OM-IYMTkDJc/0.jpg)](https://youtu.be/OM-IYMTkDJc)
+
+---
+
 ## COURSE LINK
 
 <https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/>
