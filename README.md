@@ -10,13 +10,14 @@ Go beyond the chat box. Use API access to leverage LLMs into your own applicatio
 
 ## INDEX
 
-1. Guidelines
-2. Iterative Prompt Development
-3. Summarizing
-4. Inferring
-5. Transforming
-6. Expanding
-7. Chatbot
+1. Introduction
+2. Guidelines
+3. Iterative Prompt Development
+4. Summarizing
+5. Inferring
+6. Transforming
+7. Expanding
+8. Chatbot
 
 ---
 
